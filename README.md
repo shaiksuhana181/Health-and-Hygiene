@@ -1,2 +1,16 @@
-# Health-and-Hygiene
-A Flutter-based Health &amp; Hygiene App that promotes healthy habits through interactive learning, practical tips, best practices, and quizzes on nutrition, hygiene, exercise, sleep, mental wellness, oral care, and hydration.
+# taheer
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
